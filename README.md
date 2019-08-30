@@ -1,4 +1,5 @@
 # geometry_separation
+
 geometry separation tool based on path attribute(alembic comes from maya)
 1. download otl file and reference in your hip file.
 2. Fill in the file by a node, which is your imported alembic file
